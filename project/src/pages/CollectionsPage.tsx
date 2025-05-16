@@ -22,7 +22,7 @@ const products: Product[] = [
   {
     id: 1,
     name: 'Traditional Lotus Aarthi',
-    image: 'https://i.ibb.co/zfRVrCH/aarthi1.jpeg',
+    image: 'https://i.ibb.co/mC0W8sSN/Aarthi-1.jpg',
     price: 1199,
     description: 'Beautiful golden plate with lotus design and LED candles. Perfect for pooja ceremonies.',
     category: 'traditional'
