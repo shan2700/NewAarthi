@@ -14,7 +14,7 @@ const collections: Collection[] = [
     id: 'traditional',
     name: 'Traditional Aarthi',
     description: 'Classic designs with traditional elements for auspicious occasions',
-    image: 'https://ibb.co/6R8CBhNX',
+    image: 'https://i.ibb.co/mC0W8sSN/Aarthi-1.jpg',
     startingPrice: 800
   },
   {
